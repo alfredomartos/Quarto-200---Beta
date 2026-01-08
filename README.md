@@ -1,28 +1,41 @@
-Quarto 200 
+Game Controls
 
-Controles do Jogo:
+WASD or Arrow Keys – Move
 
-WASD ou Setas - Andar
-Shift + WASD ou Setas - Correr
-C - Para agachar
-Lado Esquerdo do Rato - Interagir com os objetos
-Lado Direito do Rato - Interagir com a cama
-I - Para abrir o inventário
-F - Ligar lanterna (depois de adquiri-la)
-R - Reiniciar jogo (apenas depois de morrer)
-Esc - Fechar mensagens
-P - Pausar o jogo
-Alt + F4 / Command + Q - Sair do jogo
+Shift + WASD or Arrow Keys – Run
 
-Instruções de Jogo:
+C – Crouch
 
-Exploração: Explora o ambiente para colectar pistas e resolver puzzles que revelam mais sobre a intriga e o passado do personagem.
+Left Mouse Button – Interact with objects
 
-Interação: Usa o botão esquerdo do rato para interagir com objetos e o botão direito para interagir com a cama.
+Right Mouse Button – Interact with the bed
 
-Lanterna: Após adquirires a lanterna, utiliza a tecla 'F' para ligá-la e melhorar a visibilidade durante a noite.
+I – Open inventory
 
-Reinício: Caso o personagem morra, pressiona 'R' para reiniciares o jogo.	
+F – Turn on flashlight (after acquiring it)
 
-Saída do Jogo
-Para sair do jogo, utilize Alt + F4 no Windows ou Command + Q no Mac.
+R – Restart game (only after dying)
+
+Esc – Close messages
+
+P – Pause game
+
+Alt + F4 / Command + Q – Exit game
+
+Game Instructions
+
+Exploration:
+Explore the environment to collect clues and solve puzzles that reveal more about the story and the character’s past.
+
+Interaction:
+Use the left mouse button to interact with objects and the right mouse button to interact with the bed.
+
+Flashlight:
+After obtaining the flashlight, press the 'F' key to turn it on and improve visibility during the night.
+
+Restart:
+If the character dies, press 'R' to restart the game.
+
+Exit Game
+
+To exit the game, use Alt + F4 on Windows or Command + Q on Mac.
